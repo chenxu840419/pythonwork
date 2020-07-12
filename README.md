@@ -30,7 +30,7 @@
 - 赋值：创建一个变量或改变一个变量绑定的数据。
 - 语法：变量名 = 数据
 变量名1，变量名2 = 数据1，数据2
-
+- [学习文档二](cx.md)
 - 看教程：[www.runoob.com]
 - 看文档：http://docs.python.org/zh-cn/3/
 - 逛社区：www.pythontab.com
